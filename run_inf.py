@@ -4,8 +4,6 @@ import pandas as pd
 from inf.tags import postprocess_sentence
 from inf.model import process_batch
 
-model_name = "chronbmm/sanskrit5-multitask"
-
 def main():
     parser = argparse.ArgumentParser(description="Run inference on a T5 model for Sanskrit processing")
     parser.add_argument("--input-file", required=True, help="Path to the input file")
