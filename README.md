@@ -47,7 +47,7 @@ You can install these requirements with pip: `pip install torch transformers tqd
   - Choices: 'txt' (plain text), 'tsv' (tab-separated values)
 - `--batch-size`: Batch size for processing (optional, default: 20)
 
-### Infernece Examples
+### Inference Examples
 
 1. Segmentation:
 
