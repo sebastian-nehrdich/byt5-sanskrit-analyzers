@@ -22,10 +22,6 @@ The training code is described in training/.
   - Lemmatization
   - Lemmatization with morphosyntactic analysis
   - Segmentation, lemmatization, and morphosyntactic analysis combined
-- Batch processing for efficient handling of large datasets
-- Output in either plain text or TSV format
-- Progress bar for tracking batch processing
-- GPU acceleration (if available)
 
 ## Requirements for Inference
 
@@ -37,7 +33,7 @@ The training code is described in training/.
 
 You can install these requirements with pip: `pip install torch transformers tqdm pandas`.  
 
-### Inference Arguments
+### Inference Arguments (run_inf.py)
 
 - `--input-file`: Path to the input file containing Sanskrit text (required)
 - `--mode`: Processing mode (required)
