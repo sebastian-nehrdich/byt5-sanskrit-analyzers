@@ -1,7 +1,6 @@
 # ByT5-Sanskrit Analyzer 
 
-This repository holds code for training and inference based on the ByT5-Sanskrit model as described in this paper: XXX
-The training data for this model has been taken from the DCS: http://www.sanskrit-linguistics.org/dcs/
+This repository holds code for training and inference based on the ByT5-Sanskrit model as described in this paper: XXX  
 
 ## Data Source
 
