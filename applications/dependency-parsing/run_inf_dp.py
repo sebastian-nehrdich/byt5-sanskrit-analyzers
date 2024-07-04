@@ -9,9 +9,9 @@ max_length = 256
 
 def main():
     parser = argparse.ArgumentParser(description="Run inference on the ByT5 model for Vedic Sanskrit dependency parsing.")
-    parser.add_argument("--input-file", required=True, help="Path to the input file. This should be a conllu file.")    
+    parser.add_argument("--input-file", required=True, help="Path to the input file. This should be a conllu file.")        
     parser.add_argument("--output-file", required=True, help="Path to the output file where arcs and labels will be written.")
-    parser.add_argument("--batch-size", type=int, default=20, help="Batch size for processing.")
+    parser.add_argument("--batch-size", type=int, default=20, help="Batch size for processing.")    
     args = parser.parse_args()
 
     batch_size = args.batch_size    
