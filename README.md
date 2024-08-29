@@ -1,6 +1,6 @@
 # Welcome to ByT5-Sanskrit
 
-This repository contains inference scripts for Sanskrit analyzers developed by Sebastian Nehrdich and Oliver Hellwig. The analyzer capabilities can be accessed in an interactive application at dharmamitra.org. A publication describing the tools is currently under review.
+This repository contains inference scripts for Sanskrit analyzers developed by Sebastian Nehrdich and Oliver Hellwig. The analyzer capabilities can be accessed in an interactive application at dharmamitra.org. A publication describing the tools is currently under review. The finetuning data for these models is taken from the [DCS](http://www.sanskrit-linguistics.org/dcs/).  
 
 ## Repository Structure
 
