@@ -3,8 +3,8 @@
 This repository contains inference scripts for ByT5-Sanskrit analyzers developed by Sebastian Nehrdich and Oliver Hellwig. The analyzer capabilities can be accessed in an interactive application at [dharmamitra.org](http://dharmamitra.org). A publication describing the tools is accepted at EMNLP 2024. The finetuning data for these models is taken from the [DCS](http://www.sanskrit-linguistics.org/dcs/).  
 
 ## Models
-The pretrained base model is available here: (Huggingface link)[https://huggingface.co/buddhist-nlp/byt5-sanskrit]
-The finetuned multitask model: (Huggingface link)[https://huggingface.co/chronbmm/sanskrit5-multitask]
+The pretrained base model is available here: [Huggingface link](https://huggingface.co/buddhist-nlp/byt5-sanskrit)
+The finetuned multitask model: [Huggingface link](https://huggingface.co/chronbmm/sanskrit5-multitask)
 
 ## Repository Structure
 
