@@ -17,6 +17,7 @@ Our project is organized into three main directories. Currently, we make the app
 For instructions how to run the individual downstream applications, see the README.md files in the subfolders under applications/. 
 
 ## Citation
+The preprint is available on [arxiv](https://arxiv.org/abs/2409.13920). 
 If you like our work and use it in your research, feel free to cite the paper:
 ```
 @inproceedings{
