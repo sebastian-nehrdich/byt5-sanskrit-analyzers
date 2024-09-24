@@ -23,7 +23,7 @@ If you like our work and use it in your research, feel free to cite the paper:
 nehrdichetal2024,
 title={One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit {NLP} Tasks},
 author={Nehrdich, Sebastian and Hellwig, Oliver and Keutzer, Kurt},
-booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
+booktitle={Findings of the 2024 Conference on Empirical Methods in Natural Language Processing},
 year={2024},
 }
 ```
